@@ -1,0 +1,146 @@
+{
+    "Basic": {
+        "checkpoints": [
+            {
+                "steps": 499287,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-499287.onnx",
+                "reward": 77.86250925064087,
+                "creation_time": 1694518306.7894142,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-499287.pt"
+                ]
+            },
+            {
+                "steps": 999935,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-999935.onnx",
+                "reward": 114.8285893031529,
+                "creation_time": 1694519274.142794,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-999935.pt"
+                ]
+            },
+            {
+                "steps": 1499844,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-1499844.onnx",
+                "reward": 101.07501029968262,
+                "creation_time": 1694519926.0639458,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-1499844.pt"
+                ]
+            },
+            {
+                "steps": 1999298,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-1999298.onnx",
+                "reward": 89.96668370564778,
+                "creation_time": 1694520720.5132198,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-1999298.pt"
+                ]
+            },
+            {
+                "steps": 2498429,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-2498429.onnx",
+                "reward": 84.34001388549805,
+                "creation_time": 1694521411.9507787,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-2498429.pt"
+                ]
+            },
+            {
+                "steps": 2998727,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-2998727.onnx",
+                "reward": null,
+                "creation_time": 1694522085.671941,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-2998727.pt"
+                ]
+            },
+            {
+                "steps": 3499710,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-3499710.onnx",
+                "reward": 133.02502059936523,
+                "creation_time": 1694522747.8963916,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-3499710.pt"
+                ]
+            },
+            {
+                "steps": 3999594,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-3999594.onnx",
+                "reward": 112.45001856486003,
+                "creation_time": 1694523407.2133355,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-3999594.pt"
+                ]
+            },
+            {
+                "steps": 4498910,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-4498910.onnx",
+                "reward": null,
+                "creation_time": 1694524065.9597964,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-4498910.pt"
+                ]
+            },
+            {
+                "steps": 4998247,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-4998247.onnx",
+                "reward": 119.85002517700195,
+                "creation_time": 1694524706.8316612,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-4998247.pt"
+                ]
+            },
+            {
+                "steps": 5499966,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-5499966.onnx",
+                "reward": 167.22002258300782,
+                "creation_time": 1694525359.8737543,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-5499966.pt"
+                ]
+            },
+            {
+                "steps": 5998873,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-5998873.onnx",
+                "reward": 109.67501640319824,
+                "creation_time": 1694526010.1801052,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-5998873.pt"
+                ]
+            },
+            {
+                "steps": 6499695,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-6499695.onnx",
+                "reward": 100.88572638375419,
+                "creation_time": 1694526859.3805392,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-6499695.pt"
+                ]
+            },
+            {
+                "steps": 6501501,
+                "file_path": "results\\GeoDashTestv2\\Basic\\Basic-6501501.onnx",
+                "reward": 110.97501516342163,
+                "creation_time": 1694526866.5442097,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv2\\Basic\\Basic-6501501.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 6501501,
+            "file_path": "results\\GeoDashTestv2\\Basic.onnx",
+            "reward": 110.97501516342163,
+            "creation_time": 1694526866.5442097,
+            "auxillary_file_paths": [
+                "results\\GeoDashTestv2\\Basic\\Basic-6501501.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Basic": {
+        "checkpoints": [
+            {
+                "steps": 499653,
+                "file_path": "results\\GeoDashTestv1\\Basic\\Basic-499653.onnx",
+                "reward": 67.12728188254617,
+                "creation_time": 1694105420.3237643,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv1\\Basic\\Basic-499653.pt"
+                ]
+            },
+            {
+                "steps": 999957,
+                "file_path": "results\\GeoDashTestv1\\Basic\\Basic-999957.onnx",
+                "reward": null,
+                "creation_time": 1694106317.3076446,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv1\\Basic\\Basic-999957.pt"
+                ]
+            },
+            {
+                "steps": 1499409,
+                "file_path": "results\\GeoDashTestv1\\Basic\\Basic-1499409.onnx",
+                "reward": 64.85000991821289,
+                "creation_time": 1694107207.8255708,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv1\\Basic\\Basic-1499409.pt"
+                ]
+            },
+            {
+                "steps": 1999899,
+                "file_path": "results\\GeoDashTestv1\\Basic\\Basic-1999899.onnx",
+                "reward": 67.11539400540866,
+                "creation_time": 1694108101.0702653,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv1\\Basic\\Basic-1999899.pt"
+                ]
+            },
+            {
+                "steps": 2004526,
+                "file_path": "results\\GeoDashTestv1\\Basic\\Basic-2004526.onnx",
+                "reward": 67.10000801086426,
+                "creation_time": 1694108216.3381932,
+                "auxillary_file_paths": [
+                    "results\\GeoDashTestv1\\Basic\\Basic-2004526.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2004526,
+            "file_path": "results\\GeoDashTestv1\\Basic.onnx",
+            "reward": 67.10000801086426,
+            "creation_time": 1694108216.3381932,
+            "auxillary_file_paths": [
+                "results\\GeoDashTestv1\\Basic\\Basic-2004526.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
